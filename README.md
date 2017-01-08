@@ -1,14 +1,7 @@
-Rocket.Chat.Electron
+TRUChat
 ==============
 
-All of Rocket.Chat's Desktop Apps - for Windows, Mac OSX, and Linux are based on the [Electron platform from GitHub](https://github.com/electron/electron).   This is the source code base for all desktop apps.
-
-### IMPORTANT
-
-Please join the community server channel for Rocket.Chat Electron app users for feedback, interactions, and important notification regarding this code:
-
-https://demo.rocket.chat/channel/desktopclient
-
+All of TRUChat's Desktop Apps - for Windows, Mac OSX, and Linux are based on the [Electron platform from GitHub](https://github.com/electron/electron).   This is the source code base for all desktop apps.
 
 # Development
 
